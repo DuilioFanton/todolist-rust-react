@@ -1,4 +1,4 @@
-# Todolist: Rust + React
+# ToDolist: Rust + React
 
 Aplicação full‑stack simples de lista de tarefas (ToDo), com backend em Rust (Axum) e frontend em React (Vite + TypeScript). O projeto foi pensado para ser executado facilmente via Docker, mas também é possível rodar localmente para desenvolvimento.
 
